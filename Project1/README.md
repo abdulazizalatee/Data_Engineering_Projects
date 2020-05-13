@@ -9,5 +9,5 @@ Create a Postgres database and ETL pipeline to optimize queries to assist the Sp
 ### ETL database and pipeline
 Data sets were identified and created a star schema which includes:
 
-* One Fact Sheet: ** songplays**
-* Four dimensional tables: ** Users **, ** Songs **, ** Artists ** and ** Time **.
+* One Fact Sheet: **songplays**
+* Four dimensional tables: **Users**,**Songs**, **Artists**and **Time**.
