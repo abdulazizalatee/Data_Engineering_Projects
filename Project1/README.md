@@ -1,7 +1,5 @@
 #  Data Modeling with Postgres & ETL Pipeline for Sparkify 
 ***
-## Udacity Data Engineer Nano Degree Project 1
-***
 ### Introduction
 Sparkify is a music streaming application. Users data is in JSON format, which has caused a difficult way to query the data.
 ***
